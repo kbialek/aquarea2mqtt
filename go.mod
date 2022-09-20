@@ -1,4 +1,4 @@
-module github.com/rondoval/aquarea2mqtt
+module github.com/kbialek/aquarea2mqtt
 
 go 1.14
 
